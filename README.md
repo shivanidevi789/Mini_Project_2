@@ -18,5 +18,20 @@ This is a simple **Number Guessing Game** built with Python. The computer random
 ## 🚀 Run the Game
 
 1. Clone this repository:  
+
    ```bash
    git clone https://github.com/shivanidevi789/Mini_Project_2.git
+   
+```
+
+
+## 👩‍💻 Author
+
+Made with ❤️ by Shivani ( https://github.com/shivanidevi789 )
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+--- 
